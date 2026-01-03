@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <title>หยุดเดา ว่าควรทักลูกค้ายังไงต่อ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #f9fafb;
+      color: #111;
+      margin: 0;
+      line-height: 1.7;
+    }
+    .container {
+      max-width: 760px;
+      margin: auto;
+      padding: 48px 20px 80px;
+    }
+    h1 {
+      font-size: 2.2rem;
+      line-height: 1.3;
+    }
+    h2 {
+      margin-top: 48px;
+      font-size: 1.4rem;
+    }
+    p {
+      font-size: 1.05rem;
+    }
+    .subtitle {
+      color: #555;
+      margin-top: 12px;
+    }
+    .box {
+      background: #fff;
+      border-radius: 12px;
+      padding: 24px;
+      margin-top: 24px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .cta {
+      margin-top: 48px;
+      text-align: center;
+    }
+    .cta button {
+      background: #111;
+      color: #fff;
+      border: none;
+      padding: 16px 28px;
+      font-size: 1.1rem;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .cta button:hover {
+      background: #000;
+    }
+    .price {
+      font-size: 1.3rem;
+      font-weight: bold;
+      margin-top: 12px;
+    }
+    .note {
+      font-size: 0.9rem;
+      color: #666;
+      margin-top: 12px;
+    }
+    footer {
+      margin-top: 80px;
+      font-size: 0.85rem;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <h1>หยุดเดา ว่าควรทักลูกค้ายังไงต่อ</h1>
+  <p class="subtitle">
+    เครื่องมือช่วยตัดสินใจ สำหรับฟรีแลนซ์สาย Marketing<br>
+    ในจังหวะที่ลูกค้าบอกว่า “ขอคิดดูก่อน”
+  </p>
+
+  <div class="box">
+    <p>
+      ปกติคุณไม่ได้ไม่รู้<br>
+      คุณแค่ไม่อยากพลาด
+    </p>
+  </div>
+
+  <h2>ปัญหาที่เกิดขึ้นจริง</h2>
+  <ul>
+    <li>ลูกค้าบอก “ขอคิดก่อน”</li>
+    <li>ไม่รู้ว่าควรทักต่อดีไหม</li>
+    <li>กลัวทักเร็วไป → ดูขายเกิน</li>
+    <li>กลัวไม่ทัก → ดีลหาย</li>
+  </ul>
+  <p>สุดท้ายคุณเดา… แล้วหวังว่าจะไม่พัง</p>
+
+  <h2>เครื่องมือนี้ทำอะไร</h2>
+  <div class="box">
+    <p>
+      เครื่องมือนี้ <strong>ไม่ได้ช่วยปิดการขาย</strong><br>
+      และ <strong>ไม่ได้ทำให้ลูกค้าตอบ</strong>
+    </p>
+    <p>
+      มันทำหน้าที่เดียว:<br>
+      <strong>บอกว่าควรทำอะไรต่อ กับลูกค้าคนนี้ ตอนนี้</strong>
+    </p>
+  </div>
+
+  <h2>ใช้งานยังไง</h2>
+  <ol>
+    <li>วางข้อความล่าสุดของลูกค้า</li>
+    <li>เลือกสถานะการคุย</li>
+    <li>ดูคำแนะนำ แล้วทำตาม</li>
+  </ol>
+  <p>ไม่ต้องตั้งค่า ไม่ต้องเรียนรู้ ไม่ต้องคิดเพิ่ม</p>
+
+  <h2>สิ่งที่คุณจะได้</h2>
+  <ul>
+    <li>รู้ว่าลูกค้าขอคิดจริง หรือขอหนี</li>
+    <li>รู้ว่าควรรอ ทัก หรือหยุด</li>
+    <li>มีข้อความที่ส่งได้ทันที</li>
+    <li>ไม่ต้องรับผิดชอบการเดาเองทั้งหมด</li>
+  </ul>
+
+  <h2>สิ่งที่เครื่องมือนี้ไม่ทำ</h2>
+  <ul>
+    <li>❌ ไม่รับประกันผลลัพธ์การขาย</li>
+    <li>❌ ไม่ทำนายพฤติกรรมลูกค้า</li>
+    <li>❌ ไม่แทนการตัดสินใจของคุณ</li>
+  </ul>
+  <p>มันแค่ช่วยให้คุณ <strong>ไม่ทักผิดจังหวะ</strong></p>
+
+  <h2>ราคา</h2>
+  <div class="box">
+    <p class="price">299 บาท — จ่ายครั้งเดียว</p>
+    <p>ไม่มี Subscription<br>ไม่มีผูกมัด<br>ใช้เมื่อจำเป็น</p>
+  </div>
+
+  <div class="cta">
+    <button onclick="alert('เชื่อมต่อหน้าระบบในขั้นถัดไป')">
+      เริ่มใช้งาน
+    </button>
+    <p class="note">
+      เครื่องมือนี้ช่วยตัดสินใจจากรูปแบบการขายทั่วไป<br>
+      ผลลัพธ์ขึ้นกับบริบทและการสื่อสารของผู้ใช้
+    </p>
+  </div>
+
+  <footer>
+    นี่ไม่ใช่เครื่องมือทำให้คุณเก่งขึ้น<br>
+    แต่มันช่วยให้คุณไม่พลาดในจังหวะสำคัญ
+  </footer>
+
+</div>
+
+</body>
+</html>
